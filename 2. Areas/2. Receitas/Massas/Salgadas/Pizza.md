@@ -1,7 +1,9 @@
 ---
+title: Pizza
 rendimento: 2 pizzas de 30cm
 preparo: 6 a 10 horas
 ---
+
 ## Ingredientes
 
 - [ ] 500g de farinha de trigo

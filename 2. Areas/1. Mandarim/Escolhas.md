@@ -1,3 +1,7 @@
+---
+title: Escolhas
+---
+
 ## Sobre
 Para formular perguntas onde o interlocutor deve escolher uma opção entre duas disponíveis podemos utilizar a seguinte estrutura:
 

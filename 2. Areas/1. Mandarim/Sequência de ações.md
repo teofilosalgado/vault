@@ -1,3 +1,7 @@
+---
+title: Sequência de ações
+---
+
 ## Sobre
 Para formarmos frases expressando uma sequência de ações, algo que acontece primeiro antes de uma segunda ação, utilizamos as seguintes estruturas:
 

@@ -1,3 +1,7 @@
+---
+title: Perguntas
+---
+
 ## Sobre
 Existem diversas maneiras de se formar perguntas em mandarim, utilizando componentes diferentes para finalidades diferentes. Abaixo, discutiremos algumas estruturas.
 

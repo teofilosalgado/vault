@@ -1,3 +1,7 @@
+---
+title: Negando o passado
+---
+
 ## Sobre
 
 Para negarmos o passado podemos utilizar as expressões 没 e 没有 conforme abaixo:

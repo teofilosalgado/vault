@@ -1,3 +1,7 @@
+---
+title: Adjunto
+---
+
 ## Sobre
 
 Em mandarim, os adjuntos **sempre** precedem seus núcleos, independentemente da quantidade de adjuntos. Os adjuntos se relacionam aos seus núcleos de duas formas: utilizando a partícula 的 ou de forma direta, justapondo os elementos. A partícula só pode ser omitida, majoritariamente, em três situações:

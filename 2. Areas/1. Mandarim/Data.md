@@ -1,3 +1,7 @@
+---
+title: Data
+---
+
 ## Sobre
 Datas em mandarim são escritas do maior para o menor (i.e. do ano até os minutos) e sempre próximas ao sujeito da frase. Ou seja:
 

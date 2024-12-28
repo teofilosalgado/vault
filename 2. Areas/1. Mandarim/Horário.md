@@ -1,3 +1,7 @@
+---
+title: Horário
+---
+
 ## Sobre
 
 Horários em mandarim incluem, geralmente, duas partes: o período do dia e as horas/minutos efetivamente. Abaixo, uma descrição de cada componente.

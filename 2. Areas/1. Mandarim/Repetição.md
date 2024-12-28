@@ -1,3 +1,7 @@
+---
+title: Repetição
+---
+
 ## Sobre
 
 Para expressar características que se aplicam a cada elemento de um grupo ou ações que ocorrem a cada unidade de período de tempo, utilizamos a construção:

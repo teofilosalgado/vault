@@ -1,3 +1,7 @@
+---
+title: Continuação
+---
+
 ## Sobre
 
 Para expressar continuação utilizamos do verbo auxiliar 还 seguido de 在 ou 是 conforme o sentido desejado. Abaixo, uma breve descrição dos sentidos mais comuns.
