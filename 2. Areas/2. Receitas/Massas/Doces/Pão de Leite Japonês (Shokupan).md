@@ -19,8 +19,8 @@ preparo: 10 horas
 
 ### Yudane
 
-- [] 150ml de água
-- [] 60g de farinha de trigo
+- [ ] 150ml de água
+- [ ] 60g de farinha de trigo
 
 ## Modo de preparo
 
