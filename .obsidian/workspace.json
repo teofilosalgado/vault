@@ -11,10 +11,14 @@
             "id": "699f0074435227f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 10.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lesson 10"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "resumo grama",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,6 +162,21 @@
   },
   "active": "699f0074435227f2",
   "lastOpenFiles": [
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 5.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 10.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 9.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 7.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 8.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 6.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 4.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 3.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 2.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 1.md",
+    "2. Areas/1. Mandarim/Adjunto.md",
+    "0. Templates/2. Areas/2. Receitas.md",
+    "0. Templates/2. Areas/1. Mandarim.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 1",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1",
     "2. Areas/3. GIS/ArcGIS Utility Network.md",
     "2. Areas/1. Mandarim/Continuação.md"
   ]
