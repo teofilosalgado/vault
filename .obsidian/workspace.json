@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a333521e71fb1a4",
+        "id": "5998f5092d5c3bfe",
         "type": "tabs",
         "children": [
           {
-            "id": "699f0074435227f2",
+            "id": "8109b2377d692eaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 10.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 10"
+              "title": "New tab"
             }
           }
         ]
@@ -160,10 +156,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "699f0074435227f2",
+  "active": "8109b2377d692eaf",
   "lastOpenFiles": [
-    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 5.md",
+    "2. Areas/3. GIS/ArcGIS Utility Network.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 10.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 5.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 9.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 7.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 8.md",
@@ -177,7 +174,6 @@
     "0. Templates/2. Areas/1. Mandarim.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 1",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1",
-    "2. Areas/3. GIS/ArcGIS Utility Network.md",
     "2. Areas/1. Mandarim/Continuação.md"
   ]
 }
