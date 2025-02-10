@@ -1,5 +1,5 @@
 ---
-title: Lesson 6
+title: Lesson 06
 ---
 
 ## Localizadores

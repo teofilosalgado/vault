@@ -1,5 +1,5 @@
 ---
-title: Lesson 8
+title: Lesson 08
 ---
 ## Sentenças com Frases Sujeito + Predicado como Predicado
 ## Sentenças Interrogativas com Múltiplas Escolhas
