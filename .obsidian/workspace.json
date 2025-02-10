@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9bf3d21f0672f39",
+        "id": "27eda25238da97db",
         "type": "tabs",
         "children": [
           {
-            "id": "3a0bba35c62716af",
+            "id": "5f6a969ed84b2515",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 01.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 01"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f94226cfc7c5e9af",
@@ -161,17 +156,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a0bba35c62716af",
+  "active": "5f6a969ed84b2515",
   "lastOpenFiles": [
-    "2. Areas/1. Mandarim/Questionamentos.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 01.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 02.md",
+    "2. Areas/1. Mandarim/Questionamentos.md",
     "2. Areas/1. Mandarim/Adjunto.md",
     "2. Areas/1. Mandarim/Continuação.md",
     "0. Templates/2. Areas/1. Mandarim.md",
     "2. Areas/1. Mandarim/Verbos Optativos.md",
     "2. Areas/1. Mandarim/Perguntas.md",
     "2. Areas/1. Mandarim/Obrigações.md",
-    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 02.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 03.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 04.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 05.md",

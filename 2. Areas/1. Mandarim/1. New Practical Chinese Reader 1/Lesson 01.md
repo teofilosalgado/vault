@@ -1,6 +1,6 @@
 ---
 title: Lesson 01
-tableOfContents: "true"
+tableOfContents: true
 ---
 ## Perguntas Sim-Não com 吗
 
