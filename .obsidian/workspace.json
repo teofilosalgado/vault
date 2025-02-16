@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "27eda25238da97db",
+        "id": "cc46c18526cb2a80",
         "type": "tabs",
         "children": [
           {
-            "id": "5f6a969ed84b2515",
+            "id": "94e435355a7d9fe4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "2. Areas/3. GIS/Esri/ArcGIS Utility Network/2. Processo de Carga de Dados.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2. Processo de Carga de Dados"
             }
           }
         ]
@@ -156,10 +158,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5f6a969ed84b2515",
+  "active": "94e435355a7d9fe4",
   "lastOpenFiles": [
-    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 01.md",
+    "2. Areas/3. GIS/Open Source/Ferramenta para Exportação em Massa.md",
+    "2. Areas/3. GIS/Esri/ArcGIS Utility Network/2. Processo de Carga de Dados.md",
+    "2. Areas/3. GIS/Esri/ArcGIS Utility Network/1. Modelo de Dados.md",
+    "2. Areas/3. GIS/Open Source",
+    "2. Areas/3. GIS/Esri/ArcGIS Utility Network/Drawing 2025-02-14 15.36.25.excalidraw.md",
+    "2. Areas/3. GIS/Esri/ArcGIS Utility Network/Drawing 2025-02-14 15.37.46.excalidraw.md",
+    "2. Areas/3. GIS/Esri/ArcGIS Utility Network",
+    "2. Areas/3. GIS/Esri",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 02.md",
+    "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 01.md",
     "2. Areas/1. Mandarim/Questionamentos.md",
     "2. Areas/1. Mandarim/Adjunto.md",
     "2. Areas/1. Mandarim/Continuação.md",
@@ -175,7 +185,6 @@
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 08.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 10.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 09.md",
-    "2. Areas/3. GIS/ArcGIS Utility Network.md",
     "0. Templates/2. Areas/2. Receitas.md",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1/Lesson 1",
     "2. Areas/1. Mandarim/1. New Practical Chinese Reader 1"
