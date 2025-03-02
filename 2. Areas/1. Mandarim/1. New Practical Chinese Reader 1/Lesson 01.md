@@ -32,7 +32,7 @@ Não venho.
 
 Em mandarim, um adjetivo pode funcionar como um predicado, o qual pode ser modificado por advérbios. Formando a seguinte estrutura:
 
-> `Sujeito` [`Advérbio`] `Adjetivo`
+> `Sujeito` `[Advérbio]` `Adjetivo`
 
 > [!info]
 > É importante ressaltar que o advérbio 很 tem seu valor semântico esvaziado, sendo utilizado apenas como um conector visto que não é usual posicionar o adjetivo logo após o sujeito.
