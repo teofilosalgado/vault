@@ -3,7 +3,6 @@ title: Pão de Leite Japonês (Shokupan)
 rendimento: 8 unidades
 preparo: 10 horas
 ---
-
 ## Ingredientes
 
 ### Massa

@@ -3,7 +3,6 @@ title: Pão de forma
 rendimento: 2 pães de aproximadamente 500g
 preparo: 3 horas
 ---
-
 ## Ingredientes
 
 - [ ] 1 kg de farinha de trigo

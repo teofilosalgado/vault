@@ -3,7 +3,6 @@ title: Esfiha
 rendimento: 36 esfihas
 preparo: 4 horas
 ---
-
 ## Ingredientes
 
 ### Massa

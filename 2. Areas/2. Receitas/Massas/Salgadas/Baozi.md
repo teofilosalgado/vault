@@ -3,7 +3,6 @@ title: Baozi
 rendimento: 8 unidades
 preparo: 2 horas
 ---
-
 ## Ingredientes
 
 - [ ] 300g de farinha de trigo
