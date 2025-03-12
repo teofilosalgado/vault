@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7dedbf3dac7de48a",
+        "id": "ff727cb72c73ff08",
         "type": "tabs",
         "children": [
           {
-            "id": "4a4b9037a22dbe96",
+            "id": "6ddd1e295cf56496",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 03.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lesson 03"
+              "title": "New tab"
             }
           }
         ]
@@ -160,7 +156,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a4b9037a22dbe96",
+  "active": "6ddd1e295cf56496",
   "lastOpenFiles": [
     "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 02.md",
     "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 03.md",
