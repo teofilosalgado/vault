@@ -1,5 +1,6 @@
 ---
 title: Lesson 02
+tableOfContents: true
 ---
 
 ## Sentenças com 是
@@ -82,7 +83,9 @@ Eu e minha mãe estamos ocupados.
 
 ### Sobre
 
-Assim como o advérbio 也, o advérbio 都 deve ser posicionado depois do sujeito mas antes do verbo/adjetivo do predicado. Quando 都 e 也 forem utilizados numa mesma sentença, 也 deve aparecer antes de 都.
+Assim como o advérbio 也, o advérbio 都 deve ser posicionado depois do sujeito mas antes do verbo/adjetivo do predicado. Quando 都 e 也 forem utilizados numa mesma sentença, 也 deve aparecer antes de 都. Formando a seguinte estrutura:
+
+> `Sujeito` 都 `Verbo|Adjetivo|Frase Verbal`
 
 ### Exemplos
 

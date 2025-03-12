@@ -8,7 +8,7 @@ tableOfContents: true
 
 Para construir perguntas cuja a resposta pode ser "sim" ou "não", utilizamos a seguinte estrutura:
 
-> `afirmação` 吗?
+> `Afirmação` 吗?
 
 Onde primeiro introduzimos uma afirmação a ser confirmada pelo outro interlocutor.
 
@@ -59,7 +59,7 @@ Estudar mandarim é especialmente difícil.
 
 O advérbio 也 deve sempre estar depois do sujeito e antes do verbo/adjetivo/frase verbal. Formando a seguinte estrutura:
 
-> `Sujeito` 也 `Verbo`/`Adjetivo`/`Frase Verbal`
+> `Sujeito` 也 `Verbo|Adjetivo|Frase Verbal`
 
 ### Exemplos
 

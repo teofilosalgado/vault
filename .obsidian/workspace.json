@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff727cb72c73ff08",
+        "id": "0f8ae5eac9e5b3bf",
         "type": "tabs",
         "children": [
           {
-            "id": "6ddd1e295cf56496",
+            "id": "60af17b6cb8e2472",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 03.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lesson 03"
             }
           }
         ]
@@ -156,11 +160,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6ddd1e295cf56496",
+  "active": "60af17b6cb8e2472",
   "lastOpenFiles": [
     "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 02.md",
-    "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 03.md",
     "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 01.md",
+    "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 03.md",
+    "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 04.md",
+    "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 08.md",
+    "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 09.md",
+    "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 10.md",
+    "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 07.md",
+    "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 06.md",
+    "2. Areas/Mandarim/1. New Practical Chinese Reader 1/Lesson 05.md",
     "3. Resources/Development/Configurando Nginx como Proxy Reverso.md",
     "0. Templates/2. Areas/Receitas.md",
     "3. Resources/Development",
@@ -178,13 +189,6 @@
     "2. Areas/Mandarim/Localização.md",
     "2. Areas/Mandarim/Expressando futuro.md",
     "2. Areas/Mandarim/Escolhas.md",
-    "2. Areas/Mandarim/Definindo Localização.md",
-    "2. Areas/Mandarim/Data.md",
-    "2. Areas/Mandarim/Continuação.md",
-    "2. Areas/Mandarim/Adjunto.md",
-    "3. Resources/GIS/Esri/ArcGIS Utility Network/2. Processo de Carga de Dados.md",
-    "2. Areas/Receitas/Massas/Salgadas/Torta de Frango.md",
-    "2. Areas/Receitas/Massas/Salgadas/Pizza.md",
     "Excalidraw",
     "3. Resources/GIS/Open Source",
     "3. Resources/GIS/Esri/ArcGIS Utility Network",
