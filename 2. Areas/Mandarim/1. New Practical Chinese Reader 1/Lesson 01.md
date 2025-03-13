@@ -12,6 +12,13 @@ Para construir perguntas cuja a resposta pode ser "sim" ou "não", utilizamos a 
 
 Onde primeiro introduzimos uma afirmação a ser confirmada pelo outro interlocutor.
 
+Podemos, também, utilizar a seguinte estrutura para formular perguntas para confirmar um certo aspecto sobre um fato:
+
+`Confirmação` `Pergunta` 吗 ?
+
+> [!info]
+> Para formular confirmações é comum utilizarmos verbos como 知道, 明白, 认识, e etc. para validar a relação do interlocutor com o possível fato. As perguntas utilizadas nessa estrutura geralmente utilizam as palavras 什么, 谁, 那里, e etc. para definir a relação previamente mencionada.
+
 ### Exemplos
 
 - [3] 你有工作吗？
@@ -21,10 +28,10 @@ Sim.
 
 <br>
 
-- [3] 你明天不来吗？
-Você não vem amanhã?
-- [4] 不来。
-Não venho.
+- [3] 你知道他叫什么名字吗？
+Você sabe como ele se chama?
+- [4] 我不知道。
+Eu não sei.
 
 ## Sentenças com Predicados Adjetivos
 
