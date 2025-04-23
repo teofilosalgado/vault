@@ -1,7 +1,7 @@
 ---
 title: Lesson 11
 ---
-# 课文
+# 二，课文
 ## 一
 
 | Personagem |                                  |
@@ -30,6 +30,7 @@ title: Lesson 11
 Esta estrutura geralmente é posicionada antes do verbo para expressar quando/onde ocorreu o início de uma ação. Geralmente, o objeto da preposição 从 é um local ou uma palavra temporal. Sendo utilizada da seguinte forma:
 
 `[Sujeito]` 从 `Nome|Frase Nominal` `Verbo`
+
 ##### Exemplos
 - 我从学校去商店。
 - 他从八点开始排队，现在还没有进博物馆呢。
@@ -43,6 +44,7 @@ O advérbio 又 é normalmente utilizado para expressar que uma ação que ocorr
 
 >[!warning]
 >É importante ressaltar que o advérbio 又 funciona de forma diferente do advérbio 再. Apesar de ambos indicarem ações que ocorrem mais de uma vez, utilizamos 再 quando a próxima vez ainda não ocorreu. Por outro lado, a construção 又 + 了 é utilizada para ações repetidas que já ocorreram.
+>
 ##### Exemplos
 - 他又去中国了。
 - 她上午来了，下午又来了。
@@ -62,6 +64,24 @@ O advérbio 又 é normalmente utilizado para expressar que uma ação que ocorr
 - [3]  你买了这么多衣服！听说上海人喜欢说上海话，他们普通话说得怎么样？
 - [4] 他们普通话说得很好，年轻人英语说得也很流利。
 - [3] 你学没学上海话？
-- [4] 学了一句， “阿拉勿懂}”。
+- [4] 学了一句，“阿拉勿懂”。
 - [3] 你说什么？我不懂。
 - [4] 这就是上海话的“我不懂”。
+
+### 注释
+
+#### Os Pronomes "这么"
+##### Sobre
+O pronome "这么" pode ser utilizados para expressar intensidade, semelhante ao advérbio "tão". Além disso, este pronome pode ser utilizado para expressar algo sobre o modo/maneira de como uma ação foi ou deve ser realizada. Sendo utilizados da seguinte forma:
+
+`[Sujeito]` 那么|这么 `[Advérbio]` `Verbo`|`Adjetivo`
+
+##### Exemplos
+
+- 这么漂亮
+- 这个工作可以这么做
+
+# 三，语言点
+
+## 语法
+### O Complemento Modal
