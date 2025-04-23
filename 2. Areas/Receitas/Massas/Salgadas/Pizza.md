@@ -1,7 +1,7 @@
 ---
 title: Pizza
 rendimento: 2 pizzas de 30cm
-preparo: 6 a 10 horas
+preparo: 6 a 12 horas
 ---
 ## Ingredientes
 
@@ -28,5 +28,5 @@ preparo: 6 a 10 horas
 
 ## Dicas
 
-- Adicione um ovo na massa para deixar a massa mais fofa
-- Abra a massa utilizando fubá para não grudar. Polvilhar o fuba na pedra/forma ajuda também na hora de assar
+- Adicionar um ovo na massa para deixar a massa mais fofa
+- Abrir a massa utilizando fubá para não grudar. Polvilhar o fuba na pedra/forma ajuda também na hora de assar
