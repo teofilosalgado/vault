@@ -85,3 +85,7 @@ O pronome "这么" pode ser utilizados para expressar intensidade, semelhante ao
 
 ## 语法
 ### O Complemento Modal
+
+### A Partícula 了 Depois de um Verbo: Confirmando a Conclusão ou Realização de uma Ação
+
+### Reduplicação de um Verbo
