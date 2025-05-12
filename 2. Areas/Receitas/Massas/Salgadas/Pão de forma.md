@@ -1,5 +1,5 @@
 ---
-title: Pão de forma
+title: Pão de Forma
 rendimento: 1 pão de aproximadamente 500g
 preparo: 24 horas
 ---
@@ -32,17 +32,18 @@ preparo: 24 horas
 ### 2. Massa
 
 1. Aqueça o leite até 42ºC
-2. Misture ao leite todos os ingredientes, incluindo o Tanzhong
-3. Sove a massa por 10 oolllminutos
-4. Deixe descansar por 15 minutos na geladeira
-5. Retire o gás da massa, dobrando e modelando uma bola
-6. Deixe descansar por uma noite na geladeira
-7. Abra a massa em uma mesa e enrole formando um rolinho com a mesma largura da sua forma
-8. Unte a forma com óleo vegetal
-9. Coloque a massa na forma e pincele a parte de cima com óleo vegetal
-10. Deixe descansar por pelo menos 1 hora
-11. Preaqueça o forno a 180ºC
-12. Asse por 40 minutos em temperatura baixa (por volta de 180°C)
+2. Misture o fermento e o açúcar ao leite
+3. Adicione todos os outros ingredientes, incluindo o Tanzhong
+4. Sove a massa por 10 oolllminutos
+5. Deixe descansar por 15 minutos na geladeira
+6. Retire o gás da massa, dobrando e modelando uma bola
+7. Deixe descansar por uma noite na geladeira
+8. Abra a massa em uma mesa e enrole formando um rolinho com a mesma largura da sua forma
+9. Unte a forma com óleo vegetal
+10. Coloque a massa na forma e pincele a parte de cima com óleo vegetal
+11. Deixe descansar por pelo menos 1 hora
+12. Preaqueça o forno a 180ºC
+13. Asse por 40 minutos em temperatura baixa (por volta de 180°C)
 
 ## Dicas
 

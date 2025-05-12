@@ -101,7 +101,7 @@ O pronome "这么" pode ser utilizados para expressar intensidade, semelhante ao
 
 #### Sobre
 
-Complementos modais, aqueles que descrevem ou comentam sobre o estado de uma ação ou comportamento, são usualmente formados por adjetivos ou frases adjetivas. A párticula estrutural 得 deve ser utilizada para conectar um verbo ao seu complemento modal, formando a seguinte estrutura para frases afirmativas:
+Complementos modais, aqueles que descrevem ou comentam sobre o estado de uma ação ou comportamento, são usualmente formados por adjetivos ou frases adjetivas. A partícula estrutural 得 deve ser utilizada para conectar um verbo ao seu complemento modal, formando a seguinte estrutura para frases afirmativas:
 
 `[Sujeito]` `[Objeto]` `Verbo` 得 `Advérbio` `Adjetivo|Frase Adjetiva`
 
@@ -127,4 +127,35 @@ Questionamentos podem ser feitos, por exemplo, utilizando uma destas duas estrut
 
 ### A Partícula 了 Depois de um Verbo: Confirmando a Conclusão ou Realização de uma Ação
 
+Na lição 9 aprendemos que a partícula 了 no final de uma sentença pode indicar uma mudança de status ou uma nova situação que acabou de acontecer. Na lição 10, aprendemos que a partícula 了 no final de uma sentença pode, também, indicar que algo aconteceu ou foi concluído. Agora, na lição 11, aprenderemos que a partícula 了depois de um verbo pode indicar a confirmação da realização de uma ação. Formando, então, a seguinte estrutura na forma afirmativa:
+
+`Sujeito`  `Verbo` 了 `Númeral|Pronome|Adjetivo` `Objeto`
+
+Para frases negativas, estruturamos da seguinte forma:
+
+`Sujeito` 没|没有 `Verbo` `Objeto`
+
+Questionamentos podem ser feitos, por exemplo, utilizando uma destas duas estruturas:
+
+`Sujeito` `Verbo` 了 `Objeto` 没有？
+
+`Sujeito` `Verbo` 没 `Verbo`  `Objeto` ？
+
+#### Exemplos
+
+- 林娜学了一句上海话。
+- 他没去上海。
+- 林娜买了毛衣没有？
+- 她参观没参观兵马桶博物馆？
+
 ### Reduplicação de um Verbo
+
+A reduplicação de um verbo em mandarim geralmente denota uma ação em um curto período de tempo ou uma tentativa de realizar essa ação. A estrutura de reduplicação varia conforme o verbo, dividida entre verbos monossilábicos e dissilábicos. Para verbos monossilábicos temos:
+
+`Verbo`一`Verbo`
+
+`Verbo`了`Verbo`
+
+Para verbos dissilábicos, apenas duplicamos os verbos em sequência:
+
+`Verbo` `Verbo`
