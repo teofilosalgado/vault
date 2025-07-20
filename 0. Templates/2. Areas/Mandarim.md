@@ -2,17 +2,36 @@
 title: Mandarim
 ---
 
-## Sobre
+# 二，课文
 
+## 一
 
+🟦A
+🟩B
+🟪C
+🟧D
 
-## Exemplos
+- [6] A
+- [3] B
+- [7] C
+- [2] D
 
+### 注释
 
+## 二
 
-## Diálogos
+🟦A
+🟩B
+🟪C
+🟧D
 
-- [3] Frase 1
-     Tradução
-- [4] Frase 2
-     Tradução
+- [6] A
+- [3] B
+- [7] C
+- [2] D
+
+### 注释
+
+# 三，语言点
+
+## 语法

@@ -15,14 +15,14 @@ Sentenças com o verbo 有 no predicado usualmente representam o sentido de poss
 
 - [3] 你有几个哥哥？
 Quantos irmãos você tem?
-- [4] 我有一个哥哥。
+- [6] 我有一个哥哥。
 Eu tenho 1 irmão.
 
 <br>
 
 - [3] 林那家有没有小狗？
 Na case de Lin Na existe cachorro?
-- [4] 她家没有小狗。
+- [6] 她家没有小狗。
 Na casa de Lin Na não existe cachorro.
 
 ## Modificador de Posse
@@ -39,14 +39,14 @@ Quando um pronome pessoal modifica um relativo ou algum local que é considerave
 
 - [3] 这是谁的科菲？
 De quem é esse café?
-- [4] 这是我的咖啡。
+- [6] 这是我的咖啡。
 Esse café é meu.
 
 <br>
 
 - [3] 你是琳娜朋友吗？
 Você é amigo da Lin Na?
-- [4] 对。
+- [6] 对。
 Correto.
 
 ## Estrutura Numeral + Classificador como um Modificador
@@ -63,21 +63,21 @@ Quando os pronomes demonstrativos 这 e 那 são utilizados como modificadores p
 
 - [3] 你们家有几口人？
 Quantas pessoas tem na sua família?
-- [4] 我们家有六口人。
+- [6] 我们家有六口人。
 Minha família tem 6 pessoas.
 
 <br>
 
 - [3] 在你手机你有几张照片?
 Quantas fotos você tem no seu celular?
-- [4] 在我手机我有二万张照片。
+- [6] 在我手机我有二万张照片。
 No meu celular eu tenho 20 mil fotos.
 
 ## Sentenças Interrogativas Utilizando Pronomes Interrogativos II: 谁 e 几
 
 ### Sobre
 
-Novamente, em mandarim, a ordem das palavras em sentenças interrogativas, utilizando pronomes interrogativos, é a mesma de sentenças declarativas. 
+Novamente, em mandarim, a ordem das palavras em sentenças interrogativas, utilizando pronomes interrogativos, é a mesma de sentenças declarativas.
 
 Os pronomes interrogativos 谁 e 几 substituem nas frases as informações que você não sabe e deseja saber. Tendo valor semântico semelhante aos pronomes "quem" e "quanto", respectivamente. Desta forma, não seguem uma estrutura específica, podendo substituir qualquer nome ou numeral numa sentença.
 
@@ -85,14 +85,14 @@ Os pronomes interrogativos 谁 e 几 substituem nas frases as informações que 
 
 - [3] 谁喜欢喝茶？
 Quem gosta de chá?
-- [4] 马大为喜欢喝茶。
+- [6] 马大为喜欢喝茶。
 Ma Da Wei gosta de chá.
 
 <br>
 
 - [3] 我们班有几个人？
 Quantas pessoas nossa turma tem?
-- [4] 我们班有五个人。
+- [6] 我们班有五个人。
 Nossa turma tem 5 pessoas.
 
 ## O Advérbio 还 I: Indicando Adição
@@ -107,12 +107,12 @@ Um uso do advérbio 还 é a expressão de uma observação adicional. Formando 
 
 - [3] 你有哥哥吗？
 Você tem irmão mas velho?
-- [4] 我有一个哥哥，还有两个弟弟。
+- [6] 我有一个哥哥，还有两个弟弟。
 Eu tenho 1 irmão mais velho e dois irmãos mais novos.
 
 <br>
 
 - [3] 你要什么？
 O que você quer?
-- [4] 我要咖啡，还要点心。
+- [6] 我要咖啡，还要点心。
 Eu quero café e uma sobremesa.

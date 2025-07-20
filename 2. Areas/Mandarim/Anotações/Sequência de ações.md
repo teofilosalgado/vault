@@ -3,6 +3,7 @@ title: Sequência de ações
 ---
 
 ## Sobre
+
 Para formarmos frases expressando uma sequência de ações, algo que acontece primeiro antes de uma segunda ação, utilizamos as seguintes estruturas:
 
 `sujeito` 先 `1ª ação` 然后 `2ª ação`
@@ -23,12 +24,12 @@ ou/e
 
 - [3] 你早上做什么？
      O que você faz de manhã?
-- [4] 我先吃早饭再去办公室然后上班。
+- [6] 我先吃早饭再去办公室然后上班。
      Eu tomo café, vou pro escritório e começo a trabalhar.
 
 <br>
 
 - [3] 现在，我们去哪儿？
       Agora, onde vamos?
-- [4] 我们先去食堂然后去图书馆。
+- [6] 我们先去食堂然后去图书馆。
       Nós vamos para o refeitório e depois para a biblioteca.

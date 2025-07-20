@@ -23,14 +23,14 @@ Podemos, também, utilizar a seguinte estrutura para formular perguntas para con
 
 - [3] 你有工作吗？
 Você tem emprego?
-- [4] 对。
+- [6] 对。
 Sim.
 
 <br>
 
 - [3] 你知道他叫什么名字吗？
 Você sabe como ele se chama?
-- [4] 我不知道。
+- [6] 我不知道。
 Eu não sei.
 
 ## Sentenças com Predicados Adjetivos
@@ -48,7 +48,7 @@ Em mandarim, um adjetivo pode funcionar como um predicado, o qual pode ser modif
 
 - [3] 你忙吗？
 Você está ocupado.
-- [4] 我很忙。你呢？
+- [6] 我很忙。你呢？
 Sim. E você?
 - [3] 我不太忙。
 Eu não estou muito ocupado.
@@ -57,7 +57,7 @@ Eu não estou muito ocupado.
 
 - [3] 学习中文难吗？
 Estudar mandarim é difícil?
-- [4]  学习中文非常难！
+- [6]  学习中文非常难！
 Estudar mandarim é especialmente difícil.
 
 ## Posicionamento do Advérbio 也
@@ -72,14 +72,14 @@ O advérbio 也 deve sempre estar depois do sujeito e antes do verbo/adjetivo/fr
 
 - [3] 他们也是法国人吗？
 Eles também são franceses?
-- [4] 不是，他们是德国人。
+- [6] 不是，他们是德国人。
 Não, eles são alemães.
 
 <br>
 
 - [3] 你想学习中文吗？
 Você quer estudar mandarim?
-- [4]  我想。你呢？
+- [6]  我想。你呢？
 Sim. E você?
 - [3] 我也想学习中文。
 Eu também quero estudar mandarim.

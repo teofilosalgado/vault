@@ -4,7 +4,10 @@ title: Configurando Nginx como Proxy Reverso
 
 Para fins de exemplo, configuraremos os subdiretórios `/app` e `/keycloak` para uma aplicação Spring Boot rodando em `localhost:5000/app` e uma instância Keycloak rodando em `localhost:8080/keycloak`, respectivamente, utilizando Nginx. Neste exemplo, estaremos utilizando o domínio `teofilosalgado.io`.
 
-Primeiro, configuraremos as aplicações para receberem requisições no contexto (subdiretório) em questão. No caso, para uma aplicação Spring Boot, adicionamos o seguinte conteúdo ao arquivo `application.yaml`:
+Primeiro, configuraremos as aplicações para receberem requisições no contexto (subdiretório) em questão. 
+
+No caso, para uma aplicação Spring Boot, adicionamos o seguinte conteúdo ao arquivo `application.yaml`:
+
 ```yaml
 server:
   port: 5000
@@ -12,11 +15,12 @@ server:
     contextPath: /app
 ```
 
-Para o Keycloak, definimos as seguintes variáveis de ambiente:
-`KC_HOSTNAME` com o valor `https://teofilosalgado.io/keycloak`.
+Para o Keycloak, definimos a variável de ambiente
+`KC_HOSTNAME` no formato `https://[domínio]/[subdiretório]`. Neste exemplo, utilizaremos o valor `https://teofilosalgado.io/keycloak`.
 
-Depois, criaremos o arquivo `conf.d/proxy.conf` com o seguinte conteúdo:
-```
+Depois, criaremos constantes de proxy para o Nginx preenchendo o arquivo `conf.d/proxy.conf` com o seguinte conteúdo:
+
+```nginx
 proxy_set_header Host               $host;
 proxy_set_header X-Real-IP          $remote_addr;
 proxy_set_header X-Forwarded-For    $proxy_add_x_forwarded_for;
@@ -26,8 +30,9 @@ proxy_set_header X-Forwarded-Server $host;
 proxy_set_header X-Real-IP          $remote_addr;
 ```
 
-Finalmente, configuraremos o Nginx editando o arquivo `nginx.conf` com a seguinte configuração:
-```
+Finalmente, configuraremos o Nginx preenchendo o arquivo `nginx.conf` com a seguinte configuração:
+
+```nginx
 worker_processes  1;
 
 events {
@@ -42,11 +47,11 @@ http {
     
     server {
         listen  80 default_server;
-	    server_name _;
+     server_name _;
 
-	    location / {
-	        return 301 https://$host$request_uri;
-	    }
+     location / {
+         return 301 https://$host$request_uri;
+     }
     }
     
     server {
