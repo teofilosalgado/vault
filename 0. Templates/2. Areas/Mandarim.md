@@ -11,6 +11,8 @@ title: Mandarim
 🟪C
 🟧D
 
+<center><i>Situação</i></center>
+
 - [6] A
 - [3] B
 - [7] C
@@ -24,6 +26,8 @@ title: Mandarim
 🟩B
 🟪C
 🟧D
+
+<center><i>Situação</i></center>
 
 - [6] A
 - [3] B
