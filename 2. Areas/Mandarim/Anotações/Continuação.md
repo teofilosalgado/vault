@@ -54,12 +54,12 @@ Além do sentido principal, a forma negativa pode ser utilizada em perguntas par
 
 - [3] 你还做什么？
       O que você está fazendo?
-- [4] 我要睡觉可是我还是特别忙。
+- [6] 我要睡觉可是我还是特别忙。
       Eu queria estar dormindo mas estou muito ocupado ainda.
 
 <br>
 
 - [3] 你活动完了吗？
       Já terminou sua atividade?
-- [4] 我还没开始。
+- [6] 我还没开始。
       Eu ainda não comecei.

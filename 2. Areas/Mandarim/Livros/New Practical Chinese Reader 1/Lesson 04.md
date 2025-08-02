@@ -10,6 +10,7 @@ Horários em mandarim incluem, geralmente, duas partes: o período do dia e as h
 `[Período]` `Horário`
 
 Abaixo, uma descrição de cada componente.
+
 #### Períodos do dia
 
 O dia é dividido em 5 partes. Estas partes são utilizadas para referenciar os horários como por exemplo: "8h da manhã", "8h da noite" e etc..
@@ -23,6 +24,7 @@ O dia é dividido em 5 partes. Estas partes são utilizadas para referenciar os 
 | noite             | 晚上  |
 
 #### Horários
+
 Abaixo, uma lista não exaustiva de como representar horas e minutos.
 
 |                               | Estrutura                         | Exemplo | Tradução      |
@@ -37,14 +39,14 @@ Abaixo, uma lista não exaustiva de como representar horas e minutos.
 
 - [3] 现在几点？
       Que horas são?
-- [4] 晚上差二分十一点。
-      São 10:58 da noite. 
+- [6] 晚上差二分十一点。
+      São 10:58 da noite.
 
 <br>
 
 - [3] 你吃早饭几点？
       A que horas você toma café da manhã?
-- [4] 我八点半吃早饭。
+- [6] 我八点半吃早饭。
       Eu tomo café as 8 e meia da manhã.
 
 ## Expressões Temporais como Advérbios
@@ -71,23 +73,22 @@ Expressões temporais como 现在, 今天, 下午, dentre outras, podem ser util
 
 - [3] 你现在住在哪儿？
 Aonde você mora agora?
-- [4] 现在我住在上海。
+- [6] 现在我住在上海。
 Agora eu moro em Shang Hai.
 
 <br>
 
 - [3] 你每天早上几点起床？
 Você levanta que horas todos os dias?
-- [4] 我常常七点半起床。
+- [6] 我常常七点半起床。
 Eu geralmente acordo as 7:00.
 
 ## Questionamentos Utilizando a Estrutura Verbo/Adjetivo + Negação + Verbo/Adjetivo
 
 ### Sobre
 
-
-
 ### Exemplos
 
 ## Sentenças com Predicados Verbais
+
 ## Questionamentos Elípticos com 呢

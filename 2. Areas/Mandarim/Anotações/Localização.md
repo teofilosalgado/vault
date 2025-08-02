@@ -4,7 +4,7 @@ title: Localização
 
 ## Sobre
 
-Para expressarmos localizações podemos utilizar um dos seguintes localizadores: 
+Para expressarmos localizações podemos utilizar um dos seguintes localizadores:
 
 |         | 前 ⬆      |          |     | 上 ↗      |     |         | **北 N** |         |
 | ------- | -------- | -------- | --- | -------- | --- | ------- | ------- | ------- |
@@ -27,24 +27,24 @@ Esses localizadores podem ser combinados com 边 ou 面 para expressar o sentido
 
 - [3] 这饭馆在哪儿？
      Onde fica este restaurante?
-- [4] 饭馆在大学的后面。
+- [6] 饭馆在大学的后面。
      O restaurante fica atrás da universidade.
 - [3] 大学在哪儿？
      Onde fica a universidade?
-- [4] 大学在我的家南边。
+- [6] 大学在我的家南边。
      A universidade fica ao sul da minha casa.
 
 <br>
 
 - [3] 你的桌子上面这个是什么？
      O que é isso em cima da sua mesa?
-- [4] 这是一张地图。
+- [6] 这是一张地图。
       Isso é um mapa.
 - [3] 很漂亮。哪儿你买了？
       Muito bonito. Onde você comprou?
-- [4] 图书馆。
+- [6] 图书馆。
       Na biblioteca.
 - [3] 那在哪儿？
       Onde fica isso?
-- [4] 图书馆在体育馆的右边。
+- [6] 图书馆在体育馆的右边。
       A biblioteca fica a direita do ginásio.

@@ -49,12 +49,12 @@ Abaixo, uma lista não exaustiva de como representar horas e minutos.
 
 - [3] 现在几点？
       Que horas são?
-- [4] 晚上差二分十一点。
-      São 10:58 da noite. 
+- [6] 晚上差二分十一点。
+      São 10:58 da noite.
 
 <br>
 
 - [3] 你吃早饭几点？
       A que horas você toma café da manhã?
-- [4] 我八点半吃早饭。
+- [6] 我八点半吃早饭。
       Eu tomo café as 8 e meia da manhã.

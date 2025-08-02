@@ -7,8 +7,8 @@ preparo: 1 hora
 
 - [ ] 2 batatas
 - [ ] 300ml de leite
-- [ ] 300ml de água 
-- [ ] 150ml de óleo 
+- [ ] 300ml de água
+- [ ] 150ml de óleo
 - [ ] 3 ovos
 - [ ] 40g de sal
 - [ ] 1kg de polvilho azedo
@@ -24,4 +24,4 @@ preparo: 1 hora
 
 ## Dicas
 
-- Essa massa é melhor conservada se congelada 
+- Essa massa é melhor conservada se congelada

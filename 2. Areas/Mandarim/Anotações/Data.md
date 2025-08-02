@@ -3,6 +3,7 @@ title: Data
 ---
 
 ## Sobre
+
 Datas em mandarim são escritas do maior para o menor (i.e. do ano até os minutos) e sempre próximas ao sujeito da frase. Ou seja:
 
 `sujeito` `data` `predicado`
@@ -10,7 +11,9 @@ ou
 `data` `sujeito` `predicado`
 
 Abaixo, uma breve descrição de como cada parte de uma data deve ser composta.
-### Ano 
+
+### Ano
+
 Anos são escritos por extenso quando escrevemos datas.
 **Exemplo:**
 
@@ -21,6 +24,7 @@ Anos são escritos por extenso quando escrevemos datas.
 | 1986 | 一九八六年 |
 
 ### Mês
+
 Meses são numerados de janeiro (1) a dezembro (12) de forma linear.
 
 | Mês       | 月   |
@@ -29,7 +33,9 @@ Meses são numerados de janeiro (1) a dezembro (12) de forma linear.
 | Fevereiro | 二月  |
 | ...       | ... |
 | Dezembro  | 十二月 |
+
 ### Dia do mês
+
 Assim como os meses, os dias de um mês são numerados de forma linear.
 
 | Dia    | 日/号       |
@@ -40,6 +46,7 @@ Assim como os meses, os dias de um mês são numerados de forma linear.
 | Dia 28 | 二十八日/二十八号 |
 
 ### Dia da semana
+
 Com exceção do domingo, os dias da semana também são ordenados de forma linear.
 
 | Dia           | 星期/周       |
@@ -64,19 +71,19 @@ Com exceção do domingo, os dias da semana também são ordenados de forma line
 
 - [3] 你是哪年出生的？
       Qual ano você nasceu?
-- [4] 我是二零零零年出生的。
+- [6] 我是二零零零年出生的。
       Eu nasci em 2000.
 
 <br>
 
 - [3] 你的生日是那天？
       Seu aniversário é qual dia?
-- [4] 我的生日是一月二号。
+- [6] 我的生日是一月二号。
       Meu aniversário é dia 2 de janeiro.
 
 <br>
 
 - [3] 今天是几月几日？
       Que dia é hoje?
-- [4] 今天是四月十五号。
+- [6] 今天是四月十五号。
        Hoje é 5 de abril.

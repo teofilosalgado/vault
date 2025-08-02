@@ -6,11 +6,13 @@ preparo: 16 horas
 ## Ingredientes
 
 ### Biga
+
 - [ ] 50g de farinha de trigo
 - [ ] 4g de fermento biológico seco
 - [ ] 33g de água
 
 ### Massa
+
 - [ ] 250g de farinha de trigo
 - [ ] 4g de fermento biológico seco
 - [ ] 8g de sal
@@ -40,4 +42,5 @@ preparo: 16 horas
 13. Asse o pão a pelo menos 250°C por 45 minutos com bastante vapor (e.x.: forma com água no forno, borrifar água nas paredes do forno e etc.)
 
 ## Dicas
+
 - Faça uma mistura de manteiga com ervas e passe na crosta do pão ainda quente para conservar a crocância e adicionar aroma
